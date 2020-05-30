@@ -20,7 +20,7 @@ La utilidad del clustering radica en que se obtiene un gráfico donde se muestra
 
 ### **Metodología**
 
-Ver el siguiente enlace “README”
+Ver el siguiente enlace [README](https://github.com/dmephisto/Proyecto_Bionf2020/blob/master/README.md)
 
 
 
