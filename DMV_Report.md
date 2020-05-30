@@ -64,4 +64,6 @@ En conclusión, parece ser que el tratamiento de castración influye en los gene
 
 - Daxin, J., Chun T. & Aidong Z. (2004). Cluster analysis for gene expression data: a survey. IEEE Transactions on Knowledge and Data Engineering, 16, 1370–1386 pp. doi:10.1109/tkde.2004.68.
 
+- Llamas, B., Verdugo, R.A., Churchill, G.A. & Deschepper, C.F. (2009). Chromosome Y variants from different inbred mouse strains are linked to differences in the morphologic and molecular responses of cardiac cells to postpubertal testosterone. BMC Genomics, 10(1), 150. doi:10.1186/1471-2164-10-150.
+
 - Srivastava, S. & Joshi, N. (2014). Clustering Techniques Analysis for Mcroarray Data. IJCSMC, 3, 359-364 pp.
