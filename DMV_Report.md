@@ -30,7 +30,7 @@ El método de clustering K-means es una forma de particionar un grupo de datos d
 
 ![Fig. 1. Gráfico de suma de cuadrados para las muestras y para las sondas](Number_cluster.png)                                         
 
-​                                     Fig. 1. Gráfico de suma de cuadrados para las muestras y para las sondas.
+​                                     Fig. 1. Gráfico de suma de cuadrados.
 
 
 
