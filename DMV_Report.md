@@ -55,7 +55,8 @@ Al realizar el clustering jerárquico se obtuvo el dendrograma de clusters (Fig.
 ### Conclusiones
 
 Utilizando la matriz normalizada de un pequeño grupo de datos de microarreglos de los perfiles de expresión génica del tejido cardíaco de los ratones machos (Llamas et al., 2009), se obtuvo un set de genes DE que al parecer están bien representados por al menos 4 clusters ya que dichos clusters no se superponen por completo y mantienen cierta relación entre ellos.
-Al realizar el análisis jerárquico es posible observar que los genes DE obtenidos por Llamas et. al. (2009), parecen estar restringidos a ciertos clusters. Algunos genes están restringidos a los individuos sin tratamiento (o intactos) tanto de de la cepa C57BL / 6J como de la cepa C57BL / 6J-chrY (denominadas en este ensayo como "B" y "BY" respetivamente). No obstante, parece haber diferencias en los individuos castrados ya que los genes DE obtenidos se dividen en dos cluster aparte, unos para los individuos de la cepa  C57BL / 6J y otros para los individus de la cepa C57BL / 6J-chrY.
+
+Al realizar el análisis jerárquico es posible observar que los genes DE obtenidos por Llamas et. al. (2009), parecen estar restringidos a ciertos clusters. Algunos genes están restringidos a los individuos sin tratamiento (o intactos) tanto de la cepa C57BL / 6J como de la cepa C57BL / 6J-chrY (denominadas en este ensayo como "B.I" y "BY.I" respetivamente). No obstante, parece haber diferencias en los individuos castrados ya que los genes DE obtenidos se dividen en dos cluster aparte, unos para los individuos de la cepa  C57BL / 6J y otros para los individus de la cepa C57BL / 6J-chrY (denominadas en este ensayo como "B.C" y "BY.C" respetivamente).
 
 En conclusión, parece ser que el tratamiento de castración influye en los genes DE en las dos cepas de ratón ("C57BL / 6J" y "C57BL / 6J-chrY").
 
